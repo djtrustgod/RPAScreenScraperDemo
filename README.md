@@ -1,6 +1,6 @@
 # Python/Playwright/Headless Browser RPA Screen Scraper
 
-A Python-based RPA (Robotic Process Automation) example screen scraper that extracts tabular data from a website with multiple pages.  In this fun example, it extracts UFO sighting reports from the [National UFO Reporting Center (NUFORC)](https://nuforc.org/) database and exports them to CSV format.
+A Python-based RPA (Robotic Process Automation) example screen scraper that extracts tabular data from a website with multiple pages.  In this fun example, it extracts UFO sighting reports from the [National UFO Reporting Center (NUFORC)](https://nuforc.org/) database and exports them to CSV format. It's an Claude Opus executed example that demonstrates rapid purpose-built browser RPA tailored for specfic needs.  It eilimates the need for a heavy, expensive RPA framework for many use cases.    
 
 ## Features
 
